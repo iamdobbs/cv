@@ -2,7 +2,7 @@
 
 Hey, I'm Hayley, but most people call me Dobbs. You, however, can call me whatever you like if you're offering me a job. 
 I'm training to be a Full Stack Developer with [Makers Academy](https://makers.tech) and in April, I'm hoping to find my first tech role as a junior developer.
-When I'm not in Makers training (a time I'm not actually sure exists)\*, I'm busy swearing, yes you read that right, over at [The Sweary Card Co](www.theswearycardco.com) to help pay the gas bill.
+When I'm not in Makers training (a time I'm not actually sure exists)\*, I'm busy swearing, yes you read that right, over at [The Sweary Card Co](https://www.theswearycardco.com) to help pay the gas bill.
 
 <sub>\*I noticed I use parentheses a few times in my CV. Guess I'm getting used to passing arguments!</sub>
 
@@ -19,7 +19,7 @@ When I'm not in Makers training (a time I'm not actually sure exists)\*, I'm bus
 **The Sweary Card Co.** (Jan 2019 - present)  
 _Founder_
 
-- Founded [The Sweary Card Co](www.theswearycardco.com), a small business publishing greetings cards and giftware for both consumer and business markets, as well as licensing.
+- Founded [The Sweary Card Co](https://www.theswearycardco.com), a small business publishing greetings cards and giftware for both consumer and business markets, as well as licensing.
 - Managed all aspects of business operations, including design, sales, sourcing, customer service, marketing, and fulfilment.
  
 
@@ -46,7 +46,7 @@ Saw a gap in the market for 'novelty' greetings and giftware, but without compro
 **Natural Problem Solver**
 
 I thrive on solving problems, wether that be a complex business issue, or realising that having a box full of grab and go breakfast options on the counter, means I've no excuse to skip. In Admiral, I noticed a problem with a partnered, outsource company using confusing terminology with our customers, in order to justify and bill upgrades.
-I used my technical knowledge and communication skills to write, test and implement an amendment to our script, resulting in more transparent communication with our customers and ultimately reducing the number upgrades. I also occasionally contribute to [MindSumo](www.mindsumo.com/challenges) to solve problems posed by major international companies, in order to practice my research and presentation skills and in return, receiving feedback and sometimes small financial rewards.
+I used my technical knowledge and communication skills to write, test and implement an amendment to our script, resulting in more transparent communication with our customers and ultimately reducing the number upgrades. I also occasionally contribute to [MindSumo](https://www.mindsumo.com/challenges) to solve problems posed by major international companies, in order to practice my research and presentation skills and in return, receiving feedback and sometimes small financial rewards.
 
 **Creative**
 
