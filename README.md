@@ -41,11 +41,11 @@ _Coach_
 
 **Innovative** 
 
-Saw a gap in the market for 'novelty' greetings and giftware, but without compromising on quality and using more concious manufacturing processes. Subsequently created and launched The Sweary Card Co at a premier UK trade show, going from 'late night idea' to fully operational business in the space of 10 weeks. Secured a number of retailers, including licensing with a leading UK greeting card chain. Four years later I continue to supply Direct To Consumer, to retailers in the UK, USA and Canada, and licence to several Print On Demand (POD) card companies with markets worldwide.
+I saw a gap in the market for 'novelty' greetings and giftware, but without compromising on quality and using more concious manufacturing processes. I subsequently created and launched The Sweary Card Co at a premier UK trade show, going from 'late night idea' to fully operational business in the space of 10 weeks. I secured a number of retailers, including licensing with a leading UK greeting card chain. Four years later I continue to supply Direct To Consumer, to retailers in the UK, USA and Canada, and licence to several Print On Demand (POD) card companies with markets worldwide.
 
 **Natural Problem Solver**
 
-I thrive on solving problems, wether that be a complex business issue, or realising that having a box full of grab and go breakfast options on the counter, means I've no excuse to skip. In Admiral, I noticed a problem with a partnered, outsource company using confusing terminology with our customers, in order to justify and bill upgrades.
+I thrive on solving problems, whether that be a complex business issue, or realising that having a box full of grab and go breakfast options on the counter, means I've no excuse to skip. In Admiral, I noticed a problem with a partnered, outsource company using confusing terminology with our customers, in order to justify and bill upgrades.
 I used my technical knowledge and communication skills to write, test and implement an amendment to our script, resulting in more transparent communication with our customers and ultimately reducing the number upgrades. I also occasionally contribute to [MindSumo](https://www.mindsumo.com/challenges) to solve problems posed by major international companies, in order to practice my research and presentation skills and in return, receiving feedback and sometimes small financial rewards.
 
 **Creative**
@@ -54,7 +54,7 @@ I'm creative to the core, which I think somewhat aligns with my problem solving 
 
 **Fast Learner**
 
-I am a fast learner, but most typically in a vocational / hands-on setting. I very quickly obtained more and more responsibility in my insurance roles due to proactively seeking opportunities to expand my knowledge and expertise. I started The Sweary Card Co with virtually zero design or business experience, and further to the challenging (some have used stronger words!) task of single handedly exhibiting at a trade show, 10 weeks after idea conception, I have learnt design, sourcing, manufacturing, e-commerce, wholesale and licensing. I have now taken on the highly-selective Makers Academy 16 Week Bootcamp, achieving 100 kata, the same day as writing my first solution in order to pass the entry requirements.
+I am a fast learner, but most typically in a vocational / hands-on setting. I very quickly obtained more and more responsibility in my insurance roles by proactively seeking opportunities to expand my knowledge and expertise. I started The Sweary Card Co with virtually zero design or business experience, and further to the challenging (some have used stronger words!) task of single handedly exhibiting at a trade show, 10 weeks after idea conception, I have learnt design, sourcing, manufacturing, e-commerce, wholesale and licensing. I have now taken on the highly-selective Makers Academy 16 Week Bootcamp, achieving 100 kata, the same day as writing my first solution in order to pass the entry requirements.
 
 ## Education
 
